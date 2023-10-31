@@ -1,0 +1,48 @@
+body {
+    background-color: #00A779;
+    margin: 0;
+    padding: 0;
+}
+
+.list-conteiner {
+    display: inline-block;
+    border-style:solid ;
+    border-width: 0.5px;
+    padding-right: 20px ;
+}
+
+.main-img {
+    width: 350px;
+    float: right;
+}
+
+.text-page {
+    padding: 15px;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+
+}
+
+.header {
+    width: 15%;
+    background-color: #35D3A7;
+}
+
+.section {
+    width: 85%;
+}
+
+.grow-castle-img {
+    display: flex;
+    justify-content: left;
+    width: 205px;
+}
+
+.header>ul {
+    list-style: none;
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
